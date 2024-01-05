@@ -45,7 +45,7 @@ def subset_bam(read_list, bam, path_out):
 def write_data(read_reps, top_alleles, fasta_dict, path_out, qual_dict):
     top_alleles_reads = {}
     for k, j in top_alleles:
-        out = open(path_out + '.' + str(k.strip('-rpt8')) + 'rep.fastq', 'w')
+        out = open(path_out + '.' + str(k[0:2]) + 'rep.fastq', 'w')
         for i in read_reps:
             if read_reps[i] == k:
                 out.write('@' + i + '\n')
