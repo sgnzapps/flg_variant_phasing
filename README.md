@@ -1,4 +1,4 @@
-# Repository for FLG allelic phasing publication
+# Repository for FLG variant phasing and CNV calling publication
 
 ## Contents
 | File | Description |
