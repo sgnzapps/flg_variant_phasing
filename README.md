@@ -1,4 +1,4 @@
-# Repository for FLG variant phasing and CNV calling publication
+# Repository for FLG variant and CNV phasing publication
 
 ## Contents
 | File | Description |
