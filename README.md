@@ -1,4 +1,7 @@
-# Repository for FLG variant and CNV phasing publication
+# Repository for filaggrin variant and CNV phasing publication
+
+## Publication:
+Coming soon
 
 ## Contents
 | File | Description |
