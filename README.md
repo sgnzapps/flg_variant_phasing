@@ -1,6 +1,6 @@
 # Repository for filaggrin variant and CNV phasing publication
 
-## Publication:
+## Publication
 Coming soon
 
 ## Contents
