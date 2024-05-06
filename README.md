@@ -1,7 +1,7 @@
 # Repository for filaggrin variant and CNV phasing publication
 
 ## Publication
-Coming soon
+Wong C, Tham CY, Yang L, Benton MC, Narang V, Denil S, Duan K, Yew YW, Lee B, Florez de Sessions P, Common JEA. Nanopore Sequencing Enables Allelic Phasing of FLG Loss-of-Function Variants, Intragenic Copy Number Variation, and Methylation Status in Atopic Dermatitis and Ichthyosis Vulgaris. J Invest Dermatol. 2024 Feb 8:S0022-202X(24)00097-6. doi: [10.1016/j.jid.2024.01.020](https://doi.org/10.1016/j.jid.2024.01.020). PMID: 38336337.
 
 ## Contents
 | File | Description |
